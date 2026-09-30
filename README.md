@@ -77,8 +77,8 @@ For each module, data is returned in a standard dictionary with the following js
   "name": "example",
   "rateLimit": false,
   "exists": true,
-  "emailrecovery": "ex****e@gmail.com",
-  "phoneNumber": "0*******78",
+  "emailrecovery": "snehakadiyan0@gmail.com",
+  "phoneNumber": "9138436463",
   "others": null
 }
 ```
